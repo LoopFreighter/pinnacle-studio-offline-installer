@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-<img width="2880" height="1620" alt="Pinnacle Studio interface" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Premiere_Pro_screenshot.png/1280px-Premiere_Pro_screenshot.png" />
+<img width="2880" height="1620" alt="Pinnacle Studio interface" src="https://windows-cdn.softpedia.com/screenshots/48/Pinnacle-Studio_14.jpg" />
 </div>
 
 ---
